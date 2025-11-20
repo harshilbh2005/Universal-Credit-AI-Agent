@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "1. Act must define key terms",
+    "status": "pass",
+    "evidence": "Section 1(6) defines 'consumer prices index', 'relevant power', 'the standard allowance', and 'standard allowance 'for' a tax year'. Section 1(7) defines 'tax year' and 'tax year 2025-26'. The previous analysis further details definitions for 'the LCWRA element', 'pre-2026 claimant', and 'severe conditions criteria claimant'.",
+    "confidence": 100
+  },
+  {
+    "rule": "2. Act must specify eligibility criteria",
+    "status": "pass",
+    "evidence": "Section 2(1)(a) and (b) specify eligibility for different LCWRA element rates, distinguishing between 'claimant with limited capability for work and work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill' and 'pre-2026 claimant, severe conditions criteria claimant or claimant who is terminally ill'. The previous analysis further details eligibility for 'Pre-2026 claimant' and 'Severe conditions criteria claimant'.",
+    "confidence": 100
+  },
+  {
+    "rule": "3. Act must specify responsibilities of the administering authority",
+    "status": "pass",
+    "evidence": "Section 1(1) states: 'The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated...'. The previous analysis also lists obligations for the Department for Communities in Northern Ireland.",
+    "confidence": 100
+  },
+  {
+    "rule": "4. Act must include enforcement or penalties",
+    "status": "fail",
+    "evidence": "The Act is silent on enforcement or penalties. The 'penalties' section of the previous analysis explicitly states: 'The Act does not explicitly mention any penalties or enforcement mechanisms for non-compliance with its provisions.'",
+    "confidence": 100
+  },
+  {
+    "rule": "5. Act must include payment calculation or entitlement structure",
+    "status": "pass",
+    "evidence": "Section 1(2) and (4) provide a detailed step-by-step calculation for the standard allowance, including specific uplift percentages (e.g., '2.3% 2026-27'). Section 2(1)(a) introduces a new LCWRA element amount of '£217.26'. The 'payments' section of the previous analysis further elaborates on the entitlement structure and calculations for various benefits.",
+    "confidence": 100
+  },
+  {
+    "rule": "6. Act must include record-keeping or reporting requirements",
+    "status": "fail",
+    "evidence": "The Act is silent on record-keeping or reporting requirements. The 'record_keeping' section of the previous analysis explicitly states: 'The Act does not explicitly mention any record-keeping or data reporting requirements.'",
+    "confidence": 100
+  }
+]

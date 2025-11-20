@@ -1,0 +1,118 @@
+{
+  "document_name": "Universal Credit Act 2025",
+  "summary_report": [
+    "The Act's primary purpose is to alter the rates of the standard allowance, Limited Capability for Work (LCW) element, and Limited Capability for Work and Work-Related Activity (LCWRA) element of Universal Credit, as well as rates of income-related Employment and Support Allowance (ESA IR).",
+    "It mandates the Secretary of State to ensure the Universal Credit standard allowance for tax years 2026-27 to 2029-30 is increased annually by the Consumer Prices Index (CPI) plus an additional uplift percentage.",
+    "A new LCWRA element amount (\u00a3217.26) is introduced for new claimants from April 2026, while a 'protected LCWRA amount' is maintained for pre-2026 claimants, severe conditions criteria claimants, and terminally ill claimants.",
+    "The Act freezes the LCWRA and LCW elements of Universal Credit, and specific components of ESA IR (disability premiums, support component, work-related activity component) for tax years 2026-27 to 2029-30, by disapplying the standard annual up-rating mechanism.",
+    "It obliges the Secretary of State to ensure that the combined sum of the protected LCWRA amount and the standard allowance, or certain legacy ESA IR payments, increases by at least the relevant CPI percentage annually.",
+    "Key eligibility changes include the definition of 'pre-2026 claimants' (those continuously on LCWRA before April 2026) and 'severe conditions criteria claimants' (those with lifelong, diagnosed severe conditions meeting specific descriptors).",
+    "The Act includes corresponding provisions in Schedule 2 to ensure similar changes are implemented for Universal Credit and legacy benefits in Northern Ireland.",
+    "The main provisions related to LCWRA element changes and assessments come into force on 6 April 2026."
+  ],
+  "legislative_extraction": {
+    "definitions": {
+      "consumer prices index": "the all items consumer prices index published by the Statistics Board.",
+      "relevant CPI percentage": "the percentage by which the consumer prices index for the September before the start of the tax year is higher than it was for the September before that (or 0% if it is not higher).",
+      "relevant uplift percentage": "specific percentages provided in a table for tax years 2026-27 to 2029-30 (2.3%, 3.1%, 4.0%, 4.8% respectively).",
+      "relevant power (for standard allowance)": "the power in section 9(2) of the Welfare Reform Act 2012, or the power in section 150(2)(b) of the Social Security Administration Act 1992.",
+      "the standard allowance": "the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012.",
+      "standard allowance 'for' a tax year": "the standard allowance applicable for any assessment period commencing on or after the first Monday of that tax year and before the first Monday of the following tax year.",
+      "tax year": "the 12 months beginning with 6 April in any year.",
+      "tax year 2025-26": "the tax year beginning on 6 April 2025.",
+      "the LCWRA element": "has the meaning given by regulation 27 of the Universal Credit Regulations 2013.",
+      "the LCW element": "has the meaning given by regulation 27 of the Universal Credit Regulations 2013 (so far as saved by paragraph 8 of Schedule 2 to the Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017).",
+      "the protected LCWRA amount": "the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013).",
+      "amount of the ESA IR personal allowance": "an amount prescribed under section 4(2)(a) of the Welfare Reform Act 2007 that is not an amount of a premium specified in Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008 or an amount in respect of housing costs.",
+      "amount of an ESA IR disability premium": "an amount of the severe disability premium or enhanced disability premium specified in Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as prescribed under section 4(2)(a) of the Welfare Reform Act 2007.",
+      "the ESA IR support component": "the amount specified in paragraph 13 of Part 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as specified under section 4(6)(c) of the Welfare Reform Act 2007.",
+      "the ESA IR work-related activity component": "the amount specified in paragraph 12 of Part 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as specified under section 4(6)(c) of the Welfare Reform Act 2007 for the purposes of cases falling within paragraphs 2 to 7 of Schedule 2 to the Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017.",
+      "pre-2026 claimant": "a claimant with limited capability for work and work-related activity if the claimant was entitled at any time before 6 April 2026 to an award of universal credit that included the LCWRA element, and has been entitled to an award of universal credit that included the LCWRA element continuously from that time.",
+      "severe conditions criteria claimant": "a claimant if it has been determined that the claimant has limited capability for work and work-related activity and at least one of the descriptors set out in Schedule 7 constantly applies to the claimant and will do so for the rest of the claimant\u2019s life, based on a diagnosis by an appropriately qualified health care professional in the course of the provision of NHS services.",
+      "NHS services": "health care services provided for the purposes of the health service under section 1(1) of the National Health Service Act 2006, section 1(1) of the National Health Service (Wales) Act 2006, section 1(1) of the National Health Service (Scotland) Act 1978; or health and social care within the meaning of the Health and Social Care (Reform) Act (Northern Ireland) 2009 provided for the purposes of the system promoted under section 2(1) of that Act."
+    },
+    "obligations": {
+      "Secretary of State (UK)": [
+        "Must exercise a relevant power to secure that the standard allowance amounts for tax years 2026-27 to 2029-30 are at least the calculated minimum amounts (Section 1(1)).",
+        "Must exercise the power in section 9(2) or 12(3) of the Welfare Reform Act 2012 to increase the protected LCWRA amount or standard allowance if necessary to ensure their combined sum increases by at least the relevant CPI percentage (Section 4(1)).",
+        "Must exercise the power in section 4(2)(a) or (6)(c) of the Welfare Reform Act 2007 to increase ESA IR disability premium, support component, or personal allowance if necessary to ensure their combined sum increases by at least the relevant CPI percentage (Section 5(3))."
+      ],
+      "Department for Communities in Northern Ireland": [
+        "Must exercise a relevant power to secure that the standard allowance amounts for tax years 2026-27 to 2029-30 are at least the calculated minimum amounts (Schedule 2, Paragraph 1(1)).",
+        "Must exercise the power in Article 14(2) or 17(3) of the Welfare Reform (Northern Ireland) Order 2015 to increase the protected LCWRA amount or standard allowance if necessary to ensure their combined sum increases by at least the relevant CPI percentage (Schedule 2, Paragraph 3(1)).",
+        "Must exercise the power in section 4(2)(a) or (6)(c) of the Welfare Reform Act (Northern Ireland) 2007 to increase certain ESA IR amounts if necessary to ensure their combined sum increases by at least the relevant CPI percentage (Schedule 2, Paragraph 4(2))."
+      ]
+    },
+    "responsibilities": {
+      "Secretary of State": "Responsible for implementing the changes to Universal Credit and legacy ESA payments in Great Britain, including setting allowance rates, ensuring uplifts, and making necessary amendments to regulations.",
+      "Department for Communities in Northern Ireland": "Responsible for implementing corresponding changes to Universal Credit and legacy ESA payments in Northern Ireland, including setting allowance rates, ensuring uplifts, and making necessary amendments to regulations.",
+      "Statistics Board": "Responsible for publishing the all items consumer prices index, which is used for calculating the 'relevant CPI percentage'.",
+      "Appropriately qualified health care professional": "Responsible for diagnosing specific bodily diseases, disablements, mental illnesses, or disablements for the 'severe conditions criteria claimant' assessment."
+    },
+    "eligibility": {
+      "Standard Allowance": "Applies to all recipients of Universal Credit.",
+      "LCWRA element (new rate \u00a3217.26)": "Applies to claimants with limited capability for work and work-related activity, other than pre-2026 claimants, severe conditions criteria claimants, or claimants who are terminally ill (Section 2(1)(a)).",
+      "LCWRA element (protected amount)": "Applies to pre-2026 claimants, severe conditions criteria claimants, or claimants who are terminally ill (Section 2(1)(b), Section 4(3)(a)).",
+      "Pre-2026 claimant": "A claimant who was entitled to an award of universal credit including the LCWRA element at any time before 6 April 2026 and has been continuously entitled since then (Schedule 1, Paragraph 4).",
+      "Severe conditions criteria claimant": "A claimant who has limited capability for work and work-related activity and at least one descriptor from Schedule 7 constantly applies to them for the rest of their life, based on a diagnosis by an appropriately qualified health care professional (Schedule 1, Paragraph 6).",
+      "Legacy ESA IR payments": "Applies to recipients of income-related Employment and Support Allowance, specifically concerning the personal allowance, disability premiums (severe and enhanced), support component, and work-related activity component (Section 5)."
+    },
+    "payments": {
+      "Standard Allowance": [
+        "For tax years 2026-27 to 2029-30, amounts must be at least those calculated by taking the previous year's amount (or 2025-26 amount for 2026-27), increasing by the relevant CPI percentage, and then by a specific uplift percentage (Section 1(2)).",
+        "Relevant uplift percentages: 2.3% (2026-27), 3.1% (2027-28), 4.0% (2028-29), 4.8% (2029-30) (Section 1(4)).",
+        "Implication: The standard annual up-rating under subsections (1) and (2)(c) of section 150 of the Social Security Administration Act 1992 is disapplied for the standard allowance for these tax years (Section 1(5)), meaning the specific calculation method outlined in this Act overrides the usual up-rating."
+      ],
+      "LCWRA element": [
+        "A new amount of \u00a3217.26 is introduced for claimants other than pre-2026, severe conditions criteria, or terminally ill claimants, effective from 6 April 2026 (Section 2(1)(a)).",
+        "Implication: The LCWRA element (and LCW element) are frozen for tax years 2026-27 to 2029-30, as subsections (1) and (2) of section 150 of the Social Security Administration Act 1992 (annual up-rating of benefits) are disapplied (Section 3(1)). This means these elements will not be subject to the standard annual up-rating.",
+        "For pre-2026, severe conditions criteria, or terminally ill claimants, the sum of the 'protected LCWRA amount' and the standard allowance must increase by at least the relevant CPI percentage annually (Section 4(2)). Implication: This mandates the Secretary of State to use powers from the Welfare Reform Act 2012 to ensure a minimum inflation-linked increase for this combined amount, acting as a safeguard."
+      ],
+      "Legacy ESA IR payments": [
+        "Section 1's calculation method for the standard allowance applies in relation to the amounts of the ESA IR personal allowance for tax years 2026-27 to 2029-30 (Section 5(1)).",
+        "Implication: ESA IR disability premiums, the support component, and the work-related activity component are frozen for tax years 2026-27 to 2029-30, as subsections (1) and (2) of section 150 of the Social Security Administration Act 1992 are disapplied (Section 5(2)). This means these elements will not increase with inflation during this period.",
+        "The sum of certain ESA IR disability premiums, the support component, and the personal allowance must increase by at least the relevant CPI percentage annually (Section 5(4)). Implication: This mandates the Secretary of State to use powers from the Welfare Reform Act 2007 to ensure a minimum inflation-linked increase for these legacy benefits for vulnerable claimants, despite other freezes."
+      ]
+    },
+    "penalties": "The Act does not explicitly mention any penalties or enforcement mechanisms for non-compliance with its provisions. It focuses on setting obligations for the Secretary of State and the Department for Communities in Northern Ireland to secure specific benefit rates and uplifts.",
+    "record_keeping": "The Act does not explicitly mention any record-keeping or data reporting requirements. Its focus is on the calculation and application of benefit rates and eligibility criteria."
+  },
+  "compliance_audit": [
+    {
+      "rule": "1. Act must define key terms",
+      "status": "pass",
+      "evidence": "Section 1(6) defines 'consumer prices index', 'relevant power', 'the standard allowance', and 'standard allowance 'for' a tax year'. Section 1(7) defines 'tax year' and 'tax year 2025-26'. The previous analysis further details definitions for 'the LCWRA element', 'pre-2026 claimant', and 'severe conditions criteria claimant'.",
+      "confidence": 100
+    },
+    {
+      "rule": "2. Act must specify eligibility criteria",
+      "status": "pass",
+      "evidence": "Section 2(1)(a) and (b) specify eligibility for different LCWRA element rates, distinguishing between 'claimant with limited capability for work and work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill' and 'pre-2026 claimant, severe conditions criteria claimant or claimant who is terminally ill'. The previous analysis further details eligibility for 'Pre-2026 claimant' and 'Severe conditions criteria claimant'.",
+      "confidence": 100
+    },
+    {
+      "rule": "3. Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": "Section 1(1) states: 'The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated...'. The previous analysis also lists obligations for the Department for Communities in Northern Ireland.",
+      "confidence": 100
+    },
+    {
+      "rule": "4. Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": "The Act is silent on enforcement or penalties. The 'penalties' section of the previous analysis explicitly states: 'The Act does not explicitly mention any penalties or enforcement mechanisms for non-compliance with its provisions.'",
+      "confidence": 100
+    },
+    {
+      "rule": "5. Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Section 1(2) and (4) provide a detailed step-by-step calculation for the standard allowance, including specific uplift percentages (e.g., '2.3% 2026-27'). Section 2(1)(a) introduces a new LCWRA element amount of '\u00a3217.26'. The 'payments' section of the previous analysis further elaborates on the entitlement structure and calculations for various benefits.",
+      "confidence": 100
+    },
+    {
+      "rule": "6. Act must include record-keeping or reporting requirements",
+      "status": "fail",
+      "evidence": "The Act is silent on record-keeping or reporting requirements. The 'record_keeping' section of the previous analysis explicitly states: 'The Act does not explicitly mention any record-keeping or data reporting requirements.'",
+      "confidence": 100
+    }
+  ]
+}
