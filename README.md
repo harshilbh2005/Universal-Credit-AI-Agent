@@ -9,7 +9,7 @@ This project is an AI-powered agent designed to analyze the **Universal Credit A
 The solution is built using a modular pipeline approach:
 
 1.  **Extraction Layer (`1_extract.py`)**: Uses `pypdf` with custom Regex cleaning to remove legislative artifacts (running headers, page numbers) that confuse standard parsers.
-2.  **Analysis Engine (`2_agent.py`)**: Leverages **Gemini 1.5 Flash** with specific prompts to perform semantic summarization and extraction of complex nested clauses.
+2.  **Analysis Engine (`2_agent.py`)**: Leverages **Gemini 2.5 Flash** with specific prompts to perform semantic summarization and extraction of complex nested clauses.
 3.  **Audit Logic (`3_auditor.py`)**: A strict rule-based evaluation agent that cross-references the text against 6 specific legislative requirements.
 
 ## 📦 Output
