@@ -35,19 +35,19 @@ pip install pypdf google-generativeai python-dotenv
 
 ### Running the Pipeline
 
-Add your API key to a .env file:
+**Add your API key to a .env file**:
 GEMINI_API_KEY=your_key_here
 
-Run the extraction script:
+**Run the extraction script**:
 python 1_extract.py
 
-Run the analysis agent:
+**Run the analysis agent**:
 python 2_agent.py
 
-Run the auditor:
+**Run the auditor**:
 python 3_auditor.py
 
-Generate final report:
+**Generate final report**:
 python 4_assemble.py
 
 ## 🧠 Key Decisions
